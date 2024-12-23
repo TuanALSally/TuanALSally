@@ -4,13 +4,7 @@
 
 Hello All, My name is Tuan Abdul Lateef Sally, From the stunning island of Sri Lanka. Driven by an endless appetite for knowledge in web design and programming. "[TALS_DEV][youtube]" to more than 50 subscribers.
 
-   <p align="left">
-      <a href="https://www.youtube.com/channel/UCqbwByJCFYcHMXFvY0_zuKA">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src=" "/></a> 
-      <a href="https://www.youtube.com/channel/UCqbwByJCFYcHMXFvY0_zuKA">
-         <img alt="youtube views" title="YouTube views" src=" "/></a> 
-   </p>
-
+ 
 ---
 
 ### 🧰 Languages and Tools
