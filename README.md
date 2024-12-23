@@ -1,4 +1,4 @@
-# 🏄‍♂️ TALS Night
+# 🏄‍♂️ TALS 
 
 **`We are learning meets inovathion (Developer)`**
 
