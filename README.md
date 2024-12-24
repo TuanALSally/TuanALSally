@@ -1,6 +1,6 @@
 <h2 align="left">We are learning meets inovathion (Developer)
 
-Hello All, My name is Tuan Abdul Lateef Sally, From the stunning island of Sri Lanka. Driven by an endless appetite for knowledge in web design and programming. "TALS_DEV" to more than 50 subscribers.</h2>
+Hello All, My name is Tuan Abdul Lateef Sally, From the stunning island of Sri Lanka. Driven by an endless appetite for knowledge in web design and programming.</h2>
 
 ###
 
