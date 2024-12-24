@@ -46,6 +46,6 @@ Hello All, My name is Tuan Abdul Lateef Sally, From the stunning island of Sri L
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+ 
 
 ###
