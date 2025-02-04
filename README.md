@@ -1,58 +1,51 @@
 # Tuan AL Sally
 
-[![GitHub Profile](https://img.shields.io/badge/TuanAL_Sally-Profile-brightgreen?style=for-the-badge&logo=github)](https://github.com/TuanALSally)
+### **Web Designer | Front-End Developer**
 
-## Hi there! 👋
+ 
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=TWITTER_LINK)]((https://x.com/TALS_DEV))
+ 
 
-Welcome to my GitHub profile! I'm Tuan AL Sally, a passionate web designer and programmer with an endless appetite for knowledge. With experience in front-end development using CSS, HTML, and JavaScript, I strive to create visually appealing and interactive web experiences. Join me on my coding journey as I explore new technologies, expand my skillset, and contribute to the world of web development.
 
-## 🚀 Skills
+## 👋 Hello, folks! 
 
-![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3)
-![HTML](https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript)
+Welcome to my GitHub profile! I'm Tuan, a web designer and front-end developer with a passion for creating visually compelling and user-friendly websites. I have an endless appetite for knowledge, constantly learning and improving my skills in this field. With a strong foundation in HTML, CSS, and JavaScript, I strive to deliver high-quality code and bring ideas to life through innovative designs and intuitive user experiences.
 
-## 📊 GitHub Stats
+## 🛠️ Tech Stack
+
+- HTML | CSS | JavaScript
+- React | Redux
+- MongoDB | Express | Node.js
+- Python | Pygame
+- Next.js
+
+
+## 📊 GitHub Analytics
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=TuanALSally)
 
-## 🔥 Streak
+I have made a total of 117 commits across various projects. My top languages include CSS, HTML, and JavaScript, reflecting my focus on front-end development. While I primarily work on my own projects, I do make significant contributions to external projects whenever possible. My GitHub presence demonstrates an active involvement in the web design and programming communities.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TuanALSally)
+
+Here is a breakdown of the languages I use most frequently in my projects. These results further illustrate my expertise in CSS, HTML, and JavaScript. However, I am always open to exploring new technologies and expanding my skill set to deliver exceptional results.
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=TuanALSally)](https://git.io/streak-stats)
 
-## 🌟 Most Starred Repository
+This is my GitHub streak, indicating my commitment to consistent coding and maintaining an active presence on GitHub.
 
-You can check out my most starred repository, "cans-slider-1", a project that showcases my front-end development skills. Click [here](https://github.com/TuanALSally/cans-slider-1) to explore the repository.
+[![trophy](https://github-profile-trophy.vercel.app/?username=TuanALSally)](https://github.com/TuanALSally)
 
-## 📬 Get in Touch
+These are my GitHub trophies, representing my accomplishments and contributions on the platform.
 
-Feel free to reach out to me through the following channels:
+## 🌐 Connect  
 
-- X: @TALS_DEV
-- tiktok:  (https://www.tiktok.com/@binarybrainstals)
+If you'd like to network or collaborate on a project, feel free to connect with me on LinkedIn or Twitter. I'm always excited about new opportunities and interesting ideas. You can also check out my portfolio to see more of my work. Don't hesitate to reach out!
 
-## 🤝 Let's Collaborate
+ 
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white&link=YOUR_TWITTER_URL)](https://twitter.com/)
+ 
 
-I'm always open to exciting collaborations with fellow developers and designers. If you have any project ideas or opportunities for collaboration, feel free to reach out to me. Let's create amazing web experiences together!
+## 📚 Summary
 
-## 🐾 GitHub Activity
-
-With a total of 117 commits, I maintain a consistent and active coding habit. My journey on GitHub primarily revolves around front-end development, utilizing technologies like CSS, HTML, and JavaScript. I aim to continually grow and refine my skills, and embrace challenges that push me beyond my boundaries. My passion for web design and programming empowers me to create impactful solutions that make a difference. Join me on my coding adventure and let's make the web a better place, one commit at a time.
-
-## 💼 Projects
-
-I have created 62 public repositories on GitHub. These projects serve as a testament to my commitment to web design and programming. While I haven't contributed significantly to external projects yet, my aim is to actively engage with the GitHub community, forge meaningful collaborations, and contribute to open-source projects that align with my interests and passions.
-
-Let's connect, collaborate, and code together!
-
-## 🌱 Continuous Learning
-
-As a firm believer in lifelong learning, I'm constantly exploring new technologies, frameworks, and programming languages. Through my dedication to self-improvement, I constantly challenge myself to learn and adapt to the ever-evolving world of web development. Join me as I embark on this exciting journey, sharing my learnings, insights, and projects along the way.
-
-## 👀 Looking Ahead
-
-The future holds endless possibilities, and I'm excited to continue expanding my skillset, creating impactful web experiences, and contributing to the web development community. If you're ready to collaborate, innovate, and make a difference, let's connect and shape the future together!
-
-Walk with me on this coding journey, as we explore new horizons and create remarkable digital experiences.
-
-![Coding GIF](https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif)
+I am an active and passionate web designer and front-end developer with a focus on creating visually appealing and user-friendly websites. With a strong foundation in HTML, CSS, and JavaScript, I continually strive to expand my knowledge and improve my skills. My GitHub profile reflects my dedication to coding through consistent commits and contributions. While I mainly work on my own projects, I am always open to collaboration and exploring new opportunities for growth. I would be thrilled to connect with like-minded individuals and contribute to innovative projects. Let's make the web a better place together!
