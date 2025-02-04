@@ -30,8 +30,8 @@ You can check out my most starred repository, "cans-slider-1", a project that sh
 
 Feel free to reach out to me through the following channels:
 
-- LinkedIn: [Tuan AL Sally](https://www.linkedin.com/in/tuan-alsally)
-- Twitter: [@TuanAL_Sally](https://twitter.com/TuanAL_Sally)
+- X: @TALS_DEV
+- tiktok:  (https://www.tiktok.com/@binarybrainstals)
 
 ## 🤝 Let's Collaborate
 
