@@ -1,76 +1,12 @@
-- Next.js  
+ # Tuan AL Sally - @TuanALSally
 
-![Skills](./images/skills.png)
+[![Twitter: @TALS_DEV](https://img.shields.io/twitter/follow/TALS_DEV?style=social)](https://twitter.com/TALS_DEV)
+[![GitHub followers](https://img.shields.io/github/followers/TuanALSally?style=social)](https://github.com/TuanALSally)
 
----
+## Introduction
 
-## 📊 GitHub Activity
+Hey there, I'm Tuan AL Sally, a passionate web designer and programmer with an endless appetite for learning and improving my skills. I have a strong interest in creating visually engaging user interfaces and enjoy working with HTML, CSS, and JavaScript. As an active GitHub user, I constantly strive to expand my knowledge and collaborate on exciting projects.
 
-Tuan AL Sally's commit frequency of 123 suggests his disciplined coding habits and commitment towards maintaining and improving his projects. With 62 public repositories and a passion for programming, he showcases high levels of hands-on experience and a constant drive to learn new concepts.
-
-![GitHub Activity](https://github-readme-stats.vercel.app/api/top-langs/?username=TuanALSally&langs_count=10&layout=compact&theme=dark&hide_border=true)
-
----
-
-## 🧑‍💼 Project Contributions
-
-With 62 public repositories on GitHub, Tuan AL Sally shares his projects to make a positive impact on the developer community. One notable repository, "cans-slider-1," has received 1 star, reflecting appreciation for his hard work and dedication.
-
-<center>
-
-| Repository Name     | Stars |
-|---------------------|-------|
-| cans-slider-1       |   1   |
-| website-template    |   0   |
-| react-counter-app## Analysis of GitHub User - Tuan AL Sally
-
-![Profile Banner](https://i.imgur.com/QSU5PJn.jpg)
-
-Tuan AL Sally is an active GitHub user from Sri Lanka. With a passion for web design and programming, he consistently commits to his 62 public repositories. Through a diverse skill set that includes CSS, HTML, and JavaScript, Tuan creates interactive web experiences. This analysis will delve into his coding habits, project contributions, and overall GitHub presence, providing a comprehensive overview of his GitHub profile.
-
-### Coding Habits and Skills
-
-Tuan's most frequently used languages are CSS, HTML, and JavaScript. These languages are fundamental for creating engaging web designs and experiences. Constantly honing his skills, Tuan demonstrates a disciplined coding routine with a commit frequency of 123. This commitment to maintaining and improving his projects solidifies   |   0   |
-| css-hover-effects   |   0   |
-| portfolio           |   0   |
-
-</ his dedicationcenter>
-
- and expertise.
-
-##### 👨 Project Contributions
-
-Tuan has‍🚀 GitHub Profile contributed significantly with a Presence
-
- total ofAlthough T 62 public repositoriesuan AL on GitHub Sally currently has zero. One followers and is not notable repository, " actively engagedcans-slider- in external1," repositories, has received boosting his one star GitHub presence by participating, indicating in open appreciation for the project-source projects. Although, pull there are requests, and regular activity on no recorded public discussions could help him expand his network external repository and increase contributions, his visibility within the GitHub community limitations regarding.
-
-Let's connect profile access:
-
-- may not Email: accurately represent [tu Tuananalgtr@xyz.com](mailto's collaborative involvement in:tuanalg the opentr@xyz.com)
---source community LinkedIn: [T.
-
-###uanALGitHubUser GitHub Presence](https
-
-T://wwwuan AL.linkedin.com Sally's/)
-- GitHub profile provides quick access to his repositories. You Twitter: can find his profile [here](https [@T://github.com/TuanALuanALSally). To enhanceGitHubUser his overall presence,](https Tuan://twitter should actively.com/)
- engage in- Portfolio the GitHub: [ community.Tuan LeveragingALSallyPort additional featuresfoilio such as](https participating in://xx discussions and.xyz.com open-source projects,/)
-
----
-
-_Add submitting pullitional components and images requests, can be integrated based on individual and initiating requirements and preferences._
-
- collaborations can---
-
-For result in a visually increased followers and engagement.
-
-### Contact Information dynamic version with a
-
-- Email: clean and tuanalsally@gmail.com modern design, please
-- LinkedIn: check the interactive presepnt [linkedin.com/ination [here](https:///Tuansites.googleALSally.com/...).](https://www.linkedin.com/in/tuanalsally)
-- Twitter: [@TuanALSally](https://twitter.com/TuanALSally)
-- Website: [tuanalsally.com](https://www.tuanalsally.com)
-
----
 
 ### GitHub Statistics
 
