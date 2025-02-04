@@ -1,7 +1,7 @@
 # Tuan AL Sally
 
 [![GitHub Profile](https://img.shields.io/badge/TuanAL_Sally-Profile-brightgreen?style=for-the-badge&logo=github)](https://github.com/TuanALSally)
-[![Twitter](https://img.shields.io/badge/Tuan_AL_Sally-Twitter-blue?style=for-the-badge&logo=twitter)] ((https://www.instagram.com/tals_dev/))
+
 ## Hi there! 👋
 
 Welcome to my GitHub profile! I'm Tuan AL Sally, a passionate web designer and programmer with an endless appetite for knowledge. With experience in front-end development using CSS, HTML, and JavaScript, I strive to create visually appealing and interactive web experiences. Join me on my coding journey as I explore new technologies, expand my skillset, and contribute to the world of web development.
